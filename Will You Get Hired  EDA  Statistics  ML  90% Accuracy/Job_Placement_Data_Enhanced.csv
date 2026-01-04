@@ -1,0 +1,216 @@
+gender,ssc_percentage,ssc_board,hsc_percentage,hsc_board,hsc_subject,degree_percentage,undergrad_degree,work_experience,emp_test_percentage,specialisation,mba_percent,status,years_experience,skills_match_percent,num_certifications,internship_completed,interview_score,company_tier,job_competition_level
+M,67.0,Others,91.0,Others,Commerce,58.0,Sci&Tech,No,55.0,Mkt&HR,58.8,Placed,3,98,1,0,94,Mid,Medium
+M,79.33,Central,78.33,Others,Science,77.48,Sci&Tech,Yes,86.5,Mkt&Fin,66.28,Placed,4,88,1,1,54,MNC,Low
+M,65.0,Central,68.0,Central,Arts,64.0,Comm&Mgmt,No,75.0,Mkt&Fin,57.8,Placed,2,41,1,1,82,Startup,Low
+M,56.0,Central,52.0,Central,Science,52.0,Sci&Tech,No,66.0,Mkt&HR,59.43,Not Placed,4,41,0,0,50,MNC,High
+M,85.8,Central,73.6,Central,Commerce,73.3,Comm&Mgmt,No,96.8,Mkt&Fin,55.5,Placed,4,67,0,0,67,Mid,High
+M,55.0,Others,49.8,Others,Science,67.25,Sci&Tech,Yes,55.0,Mkt&Fin,51.58,Not Placed,1,93,0,0,81,Startup,Low
+F,46.0,Others,49.2,Others,Commerce,79.0,Comm&Mgmt,No,74.28,Mkt&Fin,53.29,Not Placed,2,62,2,1,96,Startup,Low
+M,82.0,Central,64.0,Central,Science,66.0,Sci&Tech,Yes,67.0,Mkt&Fin,62.14,Placed,2,76,5,0,98,Mid,High
+M,73.0,Central,79.0,Central,Commerce,72.0,Comm&Mgmt,No,91.34,Mkt&Fin,61.29,Placed,2,71,4,0,60,Mid,Medium
+M,58.0,Central,70.0,Central,Commerce,61.0,Comm&Mgmt,No,54.0,Mkt&Fin,52.21,Not Placed,4,72,1,1,70,Mid,Low
+M,58.0,Central,61.0,Central,Commerce,60.0,Comm&Mgmt,Yes,62.0,Mkt&HR,60.85,Placed,3,40,1,1,75,MNC,High
+M,69.6,Central,68.4,Central,Commerce,78.3,Comm&Mgmt,Yes,60.0,Mkt&Fin,63.7,Placed,2,58,2,0,74,MNC,Medium
+F,47.0,Central,55.0,Others,Science,65.0,Comm&Mgmt,No,62.0,Mkt&HR,65.04,Not Placed,5,41,1,1,71,Startup,Low
+F,77.0,Central,87.0,Central,Commerce,59.0,Comm&Mgmt,No,68.0,Mkt&Fin,68.63,Placed,4,92,0,1,76,Mid,Medium
+M,62.0,Central,47.0,Central,Commerce,50.0,Comm&Mgmt,No,76.0,Mkt&HR,54.96,Not Placed,1,83,4,0,98,Startup,High
+F,65.0,Central,75.0,Central,Commerce,69.0,Comm&Mgmt,Yes,72.0,Mkt&Fin,64.66,Placed,3,65,3,1,62,Startup,Low
+M,63.0,Central,66.2,Central,Commerce,65.6,Comm&Mgmt,Yes,60.0,Mkt&Fin,62.54,Placed,5,71,1,0,82,Startup,Medium
+F,55.0,Central,67.0,Central,Commerce,64.0,Comm&Mgmt,No,60.0,Mkt&Fin,67.28,Not Placed,5,45,0,1,83,Startup,Low
+F,63.0,Central,66.0,Central,Commerce,64.0,Comm&Mgmt,No,68.0,Mkt&HR,64.08,Not Placed,1,71,3,0,90,Mid,Medium
+M,60.0,Others,67.0,Others,Arts,70.0,Comm&Mgmt,Yes,50.48,Mkt&Fin,77.89,Placed,3,94,4,0,84,Startup,High
+M,62.0,Others,65.0,Others,Commerce,66.0,Comm&Mgmt,No,50.0,Mkt&HR,56.7,Placed,4,43,3,0,50,Mid,High
+F,79.0,Others,76.0,Others,Commerce,85.0,Comm&Mgmt,No,95.0,Mkt&Fin,69.06,Placed,0,94,0,1,70,Mid,Low
+F,69.8,Others,60.8,Others,Science,72.23,Sci&Tech,No,55.53,Mkt&HR,68.81,Placed,3,50,5,0,97,MNC,Medium
+F,77.4,Others,60.0,Others,Science,64.74,Sci&Tech,Yes,92.0,Mkt&Fin,63.62,Placed,1,95,5,1,55,Mid,Low
+M,76.5,Others,97.7,Others,Science,78.86,Sci&Tech,No,97.4,Mkt&Fin,74.01,Placed,5,98,3,0,77,MNC,Low
+F,52.58,Others,54.6,Central,Commerce,50.2,Comm&Mgmt,Yes,76.0,Mkt&Fin,65.33,Not Placed,4,56,2,0,66,Mid,Medium
+M,71.0,Others,79.0,Others,Commerce,66.0,Comm&Mgmt,Yes,94.0,Mkt&Fin,57.55,Placed,3,77,3,1,54,Mid,Medium
+M,63.0,Others,67.0,Others,Commerce,66.0,Comm&Mgmt,No,68.0,Mkt&HR,57.69,Placed,0,63,1,0,80,Mid,Medium
+M,76.76,Others,76.5,Others,Commerce,67.5,Comm&Mgmt,Yes,73.35,Mkt&Fin,64.15,Placed,0,44,1,0,54,MNC,High
+M,62.0,Central,67.0,Central,Commerce,58.0,Comm&Mgmt,No,77.0,Mkt&Fin,51.29,Not Placed,2,91,5,1,87,MNC,Low
+F,64.0,Central,73.5,Central,Commerce,73.0,Comm&Mgmt,No,52.0,Mkt&HR,56.7,Placed,2,73,2,0,52,Startup,Low
+F,67.0,Central,53.0,Central,Science,65.0,Sci&Tech,No,64.0,Mkt&HR,58.32,Not Placed,1,45,0,0,72,MNC,High
+F,61.0,Central,81.0,Central,Commerce,66.4,Comm&Mgmt,No,50.89,Mkt&HR,62.21,Placed,3,61,1,0,86,MNC,Medium
+F,87.0,Others,65.0,Others,Science,81.0,Comm&Mgmt,Yes,88.0,Mkt&Fin,72.78,Placed,3,50,5,0,86,MNC,High
+M,62.0,Others,51.0,Others,Science,52.0,Others,No,68.44,Mkt&HR,62.77,Not Placed,5,87,4,1,59,MNC,High
+F,69.0,Central,78.0,Central,Commerce,72.0,Comm&Mgmt,No,71.0,Mkt&HR,62.74,Placed,5,55,5,1,59,Startup,High
+M,51.0,Central,44.0,Central,Commerce,57.0,Comm&Mgmt,No,64.0,Mkt&Fin,51.45,Not Placed,5,72,1,0,68,MNC,Low
+F,79.0,Central,76.0,Central,Science,65.6,Sci&Tech,No,58.0,Mkt&HR,55.47,Placed,2,48,1,1,66,Mid,High
+F,73.0,Others,58.0,Others,Science,66.0,Comm&Mgmt,No,53.7,Mkt&HR,56.86,Placed,3,99,5,0,70,Mid,Low
+M,81.0,Others,68.0,Others,Science,64.0,Sci&Tech,No,93.0,Mkt&Fin,62.56,Placed,3,98,0,1,63,MNC,Low
+F,78.0,Central,77.0,Others,Commerce,80.0,Comm&Mgmt,No,60.0,Mkt&Fin,66.72,Placed,0,45,3,0,58,MNC,Low
+F,74.0,Others,63.16,Others,Commerce,65.0,Comm&Mgmt,Yes,65.0,Mkt&HR,69.76,Not Placed,2,55,1,0,95,Mid,Medium
+M,49.0,Others,39.0,Central,Science,65.0,Others,No,63.0,Mkt&Fin,51.21,Not Placed,4,68,5,0,50,Mid,Low
+M,87.0,Others,87.0,Others,Commerce,68.0,Comm&Mgmt,No,95.0,Mkt&HR,62.9,Placed,2,42,5,0,94,Startup,Low
+F,77.0,Others,73.0,Others,Commerce,81.0,Comm&Mgmt,Yes,89.0,Mkt&Fin,69.7,Placed,4,59,2,0,62,Mid,Medium
+F,76.0,Central,64.0,Central,Science,72.0,Sci&Tech,No,58.0,Mkt&HR,66.53,Not Placed,0,99,3,0,53,Mid,Low
+F,70.89,Others,71.98,Others,Science,65.6,Comm&Mgmt,No,68.0,Mkt&HR,71.63,Not Placed,1,98,4,1,50,MNC,High
+M,63.0,Central,60.0,Central,Commerce,57.0,Comm&Mgmt,Yes,78.0,Mkt&Fin,54.55,Placed,3,75,0,0,98,Mid,High
+M,63.0,Others,62.0,Others,Commerce,68.0,Comm&Mgmt,No,64.0,Mkt&Fin,62.46,Placed,0,58,4,1,89,Startup,Low
+F,50.0,Others,37.0,Others,Arts,52.0,Others,No,65.0,Mkt&HR,56.11,Not Placed,3,65,3,0,81,Mid,Medium
+F,75.2,Central,73.2,Central,Science,68.4,Comm&Mgmt,No,65.0,Mkt&HR,62.98,Placed,5,42,3,1,83,MNC,High
+M,54.4,Central,61.12,Central,Commerce,56.2,Comm&Mgmt,No,67.0,Mkt&HR,62.65,Not Placed,1,58,3,1,77,MNC,Medium
+F,40.89,Others,45.83,Others,Commerce,53.0,Comm&Mgmt,No,71.2,Mkt&HR,65.49,Not Placed,1,59,4,1,80,Mid,Medium
+M,80.0,Others,70.0,Others,Science,72.0,Sci&Tech,No,87.0,Mkt&HR,71.04,Placed,0,71,3,0,57,MNC,High
+F,74.0,Central,60.0,Others,Science,69.0,Comm&Mgmt,No,78.0,Mkt&HR,65.56,Placed,1,46,5,0,88,Startup,Medium
+M,60.4,Central,66.6,Others,Science,65.0,Comm&Mgmt,No,71.0,Mkt&HR,52.71,Placed,4,91,4,1,75,Startup,High
+M,63.0,Others,71.4,Others,Commerce,61.4,Comm&Mgmt,No,68.0,Mkt&Fin,66.88,Placed,1,80,3,0,83,Mid,Medium
+M,68.0,Central,76.0,Central,Commerce,74.0,Comm&Mgmt,No,80.0,Mkt&Fin,63.59,Placed,3,72,5,1,52,Mid,High
+M,74.0,Central,62.0,Others,Science,68.0,Comm&Mgmt,No,74.0,Mkt&Fin,57.99,Placed,3,79,2,0,99,Mid,Low
+M,52.6,Central,65.58,Others,Science,72.11,Sci&Tech,No,57.6,Mkt&Fin,56.66,Placed,3,78,3,1,61,MNC,High
+M,74.0,Central,70.0,Central,Science,72.0,Comm&Mgmt,Yes,60.0,Mkt&Fin,57.24,Placed,3,57,4,1,50,Startup,High
+M,84.2,Central,73.4,Central,Commerce,66.89,Comm&Mgmt,No,61.6,Mkt&Fin,62.48,Placed,4,79,1,0,93,Startup,High
+F,86.5,Others,64.2,Others,Science,67.4,Sci&Tech,No,59.0,Mkt&Fin,59.69,Placed,2,40,3,1,54,MNC,High
+M,61.0,Others,70.0,Others,Commerce,64.0,Comm&Mgmt,No,68.5,Mkt&HR,59.5,Not Placed,5,50,1,0,79,Startup,Medium
+M,80.0,Others,73.0,Others,Commerce,75.0,Comm&Mgmt,No,61.0,Mkt&Fin,58.78,Placed,0,67,5,1,79,Mid,Low
+M,54.0,Others,47.0,Others,Science,57.0,Comm&Mgmt,No,89.69,Mkt&HR,57.1,Not Placed,3,96,2,1,66,Mid,High
+M,83.0,Others,74.0,Others,Science,66.0,Comm&Mgmt,No,68.92,Mkt&HR,58.46,Placed,1,64,0,0,97,Mid,Medium
+M,80.92,Others,78.5,Others,Commerce,67.0,Comm&Mgmt,No,68.71,Mkt&Fin,60.99,Placed,3,89,2,0,96,Startup,Low
+F,69.7,Central,47.0,Central,Commerce,72.7,Sci&Tech,No,79.0,Mkt&HR,59.24,Not Placed,1,62,3,0,72,Mid,Low
+M,73.0,Central,73.0,Central,Science,66.0,Sci&Tech,Yes,70.0,Mkt&Fin,68.07,Placed,5,70,1,1,64,MNC,Low
+M,82.0,Others,61.0,Others,Science,62.0,Sci&Tech,No,89.0,Mkt&Fin,65.45,Placed,5,69,1,0,86,MNC,Low
+M,75.0,Others,70.29,Others,Commerce,71.0,Comm&Mgmt,No,95.0,Mkt&Fin,66.94,Placed,5,81,4,1,70,Startup,High
+M,84.86,Others,67.0,Others,Science,78.0,Comm&Mgmt,No,95.5,Mkt&Fin,68.53,Placed,1,74,1,1,63,MNC,High
+M,64.6,Central,83.83,Others,Commerce,71.72,Comm&Mgmt,No,86.0,Mkt&Fin,59.75,Placed,3,46,4,0,51,MNC,Medium
+M,56.6,Central,64.8,Central,Commerce,70.2,Comm&Mgmt,No,84.27,Mkt&Fin,67.2,Placed,5,99,5,0,60,Startup,Medium
+F,59.0,Central,62.0,Others,Commerce,77.5,Comm&Mgmt,No,74.0,Mkt&HR,67.0,Not Placed,4,55,0,1,88,Mid,Medium
+F,66.5,Others,70.4,Central,Arts,71.93,Comm&Mgmt,No,61.0,Mkt&Fin,64.27,Placed,1,65,3,1,87,Mid,Low
+M,64.0,Others,80.0,Others,Science,65.0,Sci&Tech,Yes,69.0,Mkt&Fin,57.65,Placed,1,87,4,0,83,Mid,Low
+M,84.0,Others,90.9,Others,Science,64.5,Sci&Tech,No,86.04,Mkt&Fin,59.42,Placed,3,96,0,0,87,Startup,High
+F,69.0,Central,62.0,Central,Science,66.0,Sci&Tech,No,75.0,Mkt&HR,67.99,Not Placed,1,91,1,0,99,MNC,Low
+F,69.0,Others,62.0,Others,Commerce,69.0,Comm&Mgmt,Yes,67.0,Mkt&HR,62.35,Placed,1,99,1,0,83,Mid,Low
+M,81.7,Others,63.0,Others,Science,67.0,Comm&Mgmt,Yes,86.0,Mkt&Fin,70.2,Placed,5,88,0,0,67,Mid,Low
+M,63.0,Central,67.0,Central,Commerce,74.0,Comm&Mgmt,No,82.0,Mkt&Fin,60.44,Not Placed,3,41,1,1,79,Startup,Medium
+M,84.0,Others,79.0,Others,Science,68.0,Sci&Tech,Yes,84.0,Mkt&Fin,66.69,Placed,5,40,5,1,64,Mid,Medium
+M,70.0,Central,63.0,Others,Science,70.0,Sci&Tech,Yes,55.0,Mkt&Fin,62.0,Placed,5,87,5,1,76,Startup,High
+F,83.84,Others,89.83,Others,Commerce,77.2,Comm&Mgmt,Yes,78.74,Mkt&Fin,76.18,Placed,3,51,0,1,83,MNC,Low
+M,62.0,Others,63.0,Others,Commerce,64.0,Comm&Mgmt,No,67.0,Mkt&Fin,57.03,Placed,0,44,4,0,87,Startup,Low
+M,59.6,Central,51.0,Central,Science,60.0,Others,No,75.0,Mkt&HR,59.08,Not Placed,5,76,4,0,82,Startup,High
+F,66.0,Central,62.0,Central,Commerce,73.0,Comm&Mgmt,No,58.0,Mkt&HR,64.36,Placed,4,71,0,0,73,Startup,Low
+F,84.0,Others,75.0,Others,Science,69.0,Sci&Tech,Yes,62.0,Mkt&HR,62.36,Placed,4,98,4,1,64,Startup,Low
+F,85.0,Others,90.0,Others,Commerce,82.0,Comm&Mgmt,No,92.0,Mkt&Fin,68.03,Placed,1,94,4,1,79,MNC,Medium
+M,52.0,Central,57.0,Central,Commerce,50.8,Comm&Mgmt,No,67.0,Mkt&HR,62.79,Not Placed,4,48,5,0,91,MNC,High
+F,60.23,Central,69.0,Central,Science,66.0,Comm&Mgmt,No,72.0,Mkt&Fin,59.47,Placed,1,80,4,0,66,Mid,High
+M,52.0,Central,62.0,Central,Commerce,54.0,Comm&Mgmt,No,72.0,Mkt&HR,55.41,Not Placed,0,74,2,1,54,MNC,High
+M,58.0,Central,62.0,Central,Commerce,64.0,Comm&Mgmt,No,53.88,Mkt&Fin,54.97,Placed,3,58,3,1,78,MNC,High
+M,73.0,Central,78.0,Others,Commerce,65.0,Comm&Mgmt,Yes,95.46,Mkt&Fin,62.16,Placed,3,87,1,0,53,Mid,Medium
+F,76.0,Central,70.0,Central,Science,76.0,Comm&Mgmt,Yes,66.0,Mkt&Fin,64.44,Placed,3,55,2,0,59,MNC,Medium
+F,70.5,Central,62.5,Others,Commerce,61.0,Comm&Mgmt,No,93.91,Mkt&Fin,69.03,Not Placed,4,42,4,1,66,Startup,Low
+F,69.0,Central,73.0,Central,Commerce,65.0,Comm&Mgmt,No,70.0,Mkt&Fin,57.31,Placed,0,59,5,0,59,Startup,Low
+M,54.0,Central,82.0,Others,Commerce,63.0,Sci&Tech,No,50.0,Mkt&Fin,59.47,Not Placed,4,63,0,0,66,Mid,Low
+F,45.0,Others,57.0,Others,Commerce,58.0,Comm&Mgmt,Yes,56.39,Mkt&HR,64.95,Not Placed,4,93,4,0,69,Mid,Low
+M,63.0,Central,72.0,Central,Commerce,68.0,Comm&Mgmt,No,78.0,Mkt&HR,60.44,Placed,0,95,5,1,73,Mid,Medium
+F,77.0,Others,61.0,Others,Commerce,68.0,Comm&Mgmt,Yes,57.5,Mkt&Fin,61.31,Placed,0,72,3,1,54,Startup,High
+M,73.0,Central,78.0,Central,Science,73.0,Sci&Tech,Yes,85.0,Mkt&HR,65.83,Placed,0,63,4,1,83,MNC,Medium
+M,69.0,Central,63.0,Others,Science,65.0,Comm&Mgmt,Yes,55.0,Mkt&HR,58.23,Placed,0,91,0,1,55,Startup,Low
+M,59.0,Central,64.0,Others,Science,58.0,Sci&Tech,No,85.0,Mkt&HR,55.3,Not Placed,3,50,5,1,51,Mid,Medium
+M,61.08,Others,50.0,Others,Science,54.0,Sci&Tech,No,71.0,Mkt&Fin,65.69,Not Placed,2,88,5,1,62,MNC,High
+M,82.0,Others,90.0,Others,Commerce,83.0,Comm&Mgmt,No,80.0,Mkt&HR,73.52,Placed,2,47,5,1,92,MNC,High
+M,61.0,Central,82.0,Central,Commerce,69.0,Comm&Mgmt,No,84.0,Mkt&Fin,58.31,Placed,0,75,3,0,92,Startup,Medium
+M,52.0,Central,63.0,Others,Science,65.0,Sci&Tech,Yes,86.0,Mkt&HR,56.09,Not Placed,2,77,4,0,97,Mid,Medium
+F,69.5,Central,70.0,Central,Science,72.0,Sci&Tech,No,57.2,Mkt&HR,54.8,Placed,2,79,3,0,60,Startup,Medium
+M,51.0,Others,54.0,Others,Science,61.0,Sci&Tech,No,60.0,Mkt&HR,60.64,Not Placed,0,59,1,0,96,MNC,Low
+M,58.0,Others,61.0,Others,Commerce,61.0,Comm&Mgmt,No,58.0,Mkt&HR,53.94,Placed,2,74,1,0,72,Startup,Medium
+F,73.96,Others,79.0,Others,Commerce,67.0,Comm&Mgmt,No,72.15,Mkt&Fin,63.08,Placed,4,87,4,0,65,Startup,Medium
+M,65.0,Central,68.0,Others,Science,69.0,Comm&Mgmt,No,53.7,Mkt&HR,55.01,Placed,1,64,3,0,80,Mid,Medium
+F,73.0,Others,63.0,Others,Science,66.0,Comm&Mgmt,No,89.0,Mkt&Fin,60.5,Placed,1,74,0,1,60,Mid,High
+M,68.2,Central,72.8,Central,Commerce,66.6,Comm&Mgmt,Yes,96.0,Mkt&Fin,70.85,Placed,0,64,5,1,65,MNC,High
+M,77.0,Others,75.0,Others,Science,73.0,Sci&Tech,No,80.0,Mkt&Fin,67.05,Placed,3,68,5,0,57,Startup,Low
+M,76.0,Central,80.0,Central,Science,78.0,Sci&Tech,Yes,97.0,Mkt&HR,70.48,Placed,0,57,4,0,53,Startup,Low
+M,60.8,Central,68.4,Central,Commerce,64.6,Comm&Mgmt,Yes,82.66,Mkt&Fin,64.34,Placed,3,85,1,1,89,Startup,High
+M,58.0,Others,40.0,Others,Science,59.0,Comm&Mgmt,No,73.0,Mkt&HR,58.81,Not Placed,1,57,1,0,53,MNC,High
+F,64.0,Central,67.0,Others,Science,69.6,Sci&Tech,Yes,55.67,Mkt&HR,71.49,Placed,0,41,5,0,74,MNC,High
+F,66.5,Central,66.8,Central,Arts,69.3,Comm&Mgmt,Yes,80.4,Mkt&Fin,71.0,Placed,5,93,4,1,52,Mid,Medium
+M,74.0,Others,59.0,Others,Commerce,73.0,Comm&Mgmt,Yes,60.0,Mkt&HR,56.7,Placed,4,74,3,0,81,Mid,Medium
+M,67.0,Central,71.0,Central,Science,64.33,Others,Yes,64.0,Mkt&HR,61.26,Placed,2,55,1,1,52,Mid,High
+F,84.0,Central,73.0,Central,Commerce,73.0,Comm&Mgmt,No,75.0,Mkt&Fin,73.33,Placed,3,80,3,0,76,Startup,Medium
+F,79.0,Others,61.0,Others,Science,75.5,Sci&Tech,Yes,70.0,Mkt&Fin,68.2,Placed,5,75,1,1,78,Startup,Medium
+F,72.0,Others,60.0,Others,Science,69.0,Comm&Mgmt,No,55.5,Mkt&HR,58.4,Placed,2,72,1,1,81,Mid,Low
+M,80.4,Central,73.4,Central,Science,77.72,Sci&Tech,Yes,81.2,Mkt&HR,76.26,Placed,2,43,2,1,99,Startup,High
+M,76.7,Central,89.7,Others,Commerce,66.0,Comm&Mgmt,Yes,90.0,Mkt&Fin,68.55,Placed,0,72,1,0,68,Mid,High
+M,62.0,Central,65.0,Others,Commerce,60.0,Comm&Mgmt,No,84.0,Mkt&Fin,64.15,Not Placed,2,53,0,1,70,MNC,Medium
+F,74.9,Others,57.0,Others,Science,62.0,Others,Yes,80.0,Mkt&Fin,60.78,Placed,4,60,4,0,54,Mid,High
+M,67.0,Others,68.0,Others,Commerce,64.0,Comm&Mgmt,Yes,74.4,Mkt&HR,53.49,Placed,5,87,4,0,67,MNC,Low
+M,73.0,Central,64.0,Others,Commerce,77.0,Comm&Mgmt,Yes,65.0,Mkt&HR,60.98,Placed,2,59,3,0,77,Startup,Low
+F,77.44,Central,92.0,Others,Commerce,72.0,Comm&Mgmt,Yes,94.0,Mkt&Fin,67.13,Placed,0,95,1,0,91,Mid,Low
+F,72.0,Central,56.0,Others,Science,69.0,Comm&Mgmt,No,55.6,Mkt&HR,65.63,Placed,4,47,0,1,71,Startup,High
+F,47.0,Central,59.0,Central,Arts,64.0,Comm&Mgmt,No,78.0,Mkt&Fin,61.58,Not Placed,1,46,3,1,70,MNC,High
+M,67.0,Others,63.0,Central,Commerce,72.0,Comm&Mgmt,No,56.0,Mkt&HR,60.41,Placed,5,42,2,0,55,MNC,High
+F,82.0,Others,64.0,Others,Science,73.0,Sci&Tech,Yes,96.0,Mkt&Fin,71.77,Placed,2,56,3,0,50,MNC,High
+M,77.0,Central,70.0,Central,Commerce,59.0,Comm&Mgmt,Yes,58.0,Mkt&Fin,54.43,Placed,0,72,3,1,54,Startup,High
+M,65.0,Central,64.8,Others,Commerce,69.5,Comm&Mgmt,Yes,56.0,Mkt&Fin,56.94,Placed,1,87,1,0,90,Startup,Low
+M,66.0,Central,64.0,Central,Science,60.0,Comm&Mgmt,No,60.0,Mkt&HR,61.9,Not Placed,1,51,2,1,61,Startup,Medium
+M,85.0,Central,60.0,Others,Science,73.43,Sci&Tech,Yes,60.0,Mkt&Fin,61.29,Placed,3,98,3,0,75,Startup,Low
+M,77.67,Others,64.89,Others,Commerce,70.67,Comm&Mgmt,No,89.0,Mkt&Fin,60.39,Placed,4,90,0,0,95,MNC,High
+M,52.0,Others,50.0,Others,Arts,61.0,Comm&Mgmt,No,60.0,Mkt&Fin,58.52,Not Placed,2,61,0,1,83,MNC,Low
+M,89.4,Others,65.66,Others,Science,71.25,Sci&Tech,No,72.0,Mkt&HR,63.23,Placed,0,94,4,0,98,Mid,High
+M,62.0,Central,63.0,Others,Science,66.0,Comm&Mgmt,No,85.0,Mkt&HR,55.14,Placed,3,61,2,1,63,Mid,High
+M,70.0,Central,74.0,Central,Commerce,65.0,Comm&Mgmt,No,83.0,Mkt&Fin,62.28,Placed,4,85,2,0,75,Startup,Low
+F,77.0,Central,86.0,Central,Arts,56.0,Others,No,57.0,Mkt&Fin,64.08,Placed,3,69,4,0,94,MNC,High
+M,44.0,Central,58.0,Central,Arts,55.0,Comm&Mgmt,Yes,64.25,Mkt&HR,58.54,Not Placed,5,77,3,0,76,MNC,Medium
+M,71.0,Central,58.66,Central,Science,58.0,Sci&Tech,Yes,56.0,Mkt&Fin,61.3,Placed,4,77,2,1,58,MNC,High
+M,65.0,Central,65.0,Central,Commerce,75.0,Comm&Mgmt,No,83.0,Mkt&Fin,58.87,Placed,4,84,0,0,75,Mid,Medium
+F,75.4,Others,60.5,Central,Science,84.0,Sci&Tech,No,98.0,Mkt&Fin,65.25,Placed,2,90,0,0,96,Mid,Medium
+M,49.0,Others,59.0,Others,Science,65.0,Sci&Tech,Yes,86.0,Mkt&Fin,62.48,Placed,4,93,1,0,71,MNC,High
+M,53.0,Central,63.0,Others,Science,60.0,Comm&Mgmt,Yes,70.0,Mkt&Fin,53.2,Placed,3,47,2,0,96,MNC,Low
+M,51.57,Others,74.66,Others,Commerce,59.9,Comm&Mgmt,Yes,56.15,Mkt&HR,65.99,Not Placed,4,66,3,1,79,MNC,Medium
+M,84.2,Central,69.4,Central,Science,65.0,Sci&Tech,Yes,80.0,Mkt&HR,52.72,Placed,2,66,4,1,92,Mid,Low
+M,66.5,Central,62.5,Central,Commerce,60.9,Comm&Mgmt,No,93.4,Mkt&Fin,55.03,Placed,2,73,4,0,97,MNC,Medium
+M,67.0,Others,63.0,Others,Science,64.0,Sci&Tech,No,60.0,Mkt&Fin,61.87,Not Placed,5,60,3,1,66,MNC,High
+M,52.0,Central,49.0,Others,Commerce,58.0,Comm&Mgmt,No,62.0,Mkt&HR,60.59,Not Placed,3,69,5,0,75,Startup,High
+M,87.0,Central,74.0,Central,Science,65.0,Sci&Tech,Yes,75.0,Mkt&HR,72.29,Placed,1,72,1,0,85,Startup,Medium
+M,55.6,Others,51.0,Others,Commerce,57.5,Comm&Mgmt,No,57.63,Mkt&HR,62.72,Not Placed,1,67,4,0,50,Mid,High
+M,74.2,Central,87.6,Others,Commerce,77.25,Comm&Mgmt,Yes,75.2,Mkt&Fin,66.06,Placed,4,86,2,1,57,MNC,Medium
+M,63.0,Others,67.0,Others,Science,64.0,Sci&Tech,No,75.0,Mkt&Fin,66.46,Placed,5,72,1,1,98,MNC,High
+F,67.16,Central,72.5,Central,Commerce,63.35,Comm&Mgmt,No,53.04,Mkt&Fin,65.52,Placed,0,44,2,1,84,Startup,Low
+F,63.3,Central,78.33,Others,Commerce,74.0,Comm&Mgmt,No,80.0,Mkt&Fin,74.56,Not Placed,4,99,0,1,64,Mid,High
+M,62.0,Others,62.0,Others,Commerce,60.0,Comm&Mgmt,Yes,63.0,Mkt&HR,52.38,Placed,5,87,1,1,96,Startup,Low
+M,67.9,Others,62.0,Others,Science,67.0,Sci&Tech,Yes,58.1,Mkt&Fin,75.71,Not Placed,3,58,4,1,71,Startup,High
+F,48.0,Central,51.0,Central,Commerce,58.0,Comm&Mgmt,Yes,60.0,Mkt&HR,58.79,Not Placed,3,43,1,1,63,Startup,Low
+M,59.96,Others,42.16,Others,Science,61.26,Sci&Tech,No,54.48,Mkt&HR,65.48,Not Placed,3,74,1,1,75,Startup,High
+F,63.4,Others,67.2,Others,Commerce,60.0,Comm&Mgmt,No,58.06,Mkt&HR,69.28,Not Placed,3,88,1,1,77,MNC,Low
+M,80.0,Others,80.0,Others,Commerce,72.0,Comm&Mgmt,Yes,63.79,Mkt&Fin,66.04,Placed,3,56,5,0,72,MNC,Medium
+M,73.0,Others,58.0,Others,Commerce,56.0,Comm&Mgmt,No,84.0,Mkt&HR,52.64,Placed,5,83,1,1,63,Startup,Medium
+F,52.0,Others,52.0,Others,Science,55.0,Sci&Tech,No,67.0,Mkt&HR,59.32,Not Placed,5,67,2,1,73,Mid,Low
+M,73.24,Others,50.83,Others,Science,64.27,Sci&Tech,Yes,64.0,Mkt&Fin,66.23,Placed,2,69,0,1,51,Mid,High
+M,63.0,Others,62.0,Others,Science,65.0,Sci&Tech,No,87.5,Mkt&HR,60.69,Not Placed,1,68,3,1,94,Mid,Low
+F,59.0,Central,60.0,Others,Commerce,56.0,Comm&Mgmt,No,55.0,Mkt&HR,57.9,Placed,3,85,1,1,75,Mid,High
+F,73.0,Central,97.0,Others,Commerce,79.0,Comm&Mgmt,Yes,89.0,Mkt&Fin,70.81,Placed,0,92,4,1,63,Startup,Medium
+M,68.0,Others,56.0,Others,Science,68.0,Sci&Tech,No,73.0,Mkt&HR,68.07,Placed,5,45,1,1,56,MNC,High
+F,77.8,Central,64.0,Central,Science,64.2,Sci&Tech,No,75.5,Mkt&HR,72.14,Not Placed,0,74,4,1,52,Mid,Medium
+M,65.0,Central,71.5,Others,Commerce,62.8,Comm&Mgmt,Yes,57.0,Mkt&Fin,56.6,Placed,0,99,2,1,96,Startup,High
+M,62.0,Central,60.33,Others,Science,64.21,Sci&Tech,No,63.0,Mkt&HR,60.02,Not Placed,0,80,4,1,72,Mid,High
+M,52.0,Others,65.0,Others,Arts,57.0,Others,Yes,75.0,Mkt&Fin,59.81,Not Placed,2,76,3,1,95,Mid,High
+M,65.0,Central,77.0,Central,Commerce,69.0,Comm&Mgmt,No,60.0,Mkt&HR,61.82,Placed,5,63,0,0,92,Startup,Low
+F,56.28,Others,62.83,Others,Commerce,59.79,Comm&Mgmt,No,60.0,Mkt&HR,57.29,Not Placed,0,68,4,0,96,MNC,Low
+F,88.0,Central,72.0,Central,Science,78.0,Others,No,82.0,Mkt&HR,71.43,Placed,3,88,4,1,94,MNC,Medium
+F,52.0,Central,64.0,Central,Commerce,61.0,Comm&Mgmt,No,55.0,Mkt&Fin,62.93,Not Placed,4,85,0,1,67,Startup,Medium
+M,78.5,Central,65.5,Central,Science,67.0,Sci&Tech,Yes,95.0,Mkt&Fin,64.86,Placed,0,92,3,0,87,MNC,Low
+M,61.8,Others,47.0,Others,Commerce,54.38,Comm&Mgmt,No,57.0,Mkt&Fin,56.13,Not Placed,2,70,1,1,84,Startup,Medium
+F,54.0,Central,77.6,Others,Commerce,69.2,Comm&Mgmt,No,95.65,Mkt&Fin,66.94,Not Placed,5,74,4,0,64,Startup,Low
+F,64.0,Others,70.2,Central,Commerce,61.0,Comm&Mgmt,No,50.0,Mkt&Fin,62.5,Not Placed,2,99,0,0,74,Startup,High
+M,67.0,Others,61.0,Central,Science,72.0,Comm&Mgmt,No,72.0,Mkt&Fin,61.01,Placed,0,72,2,0,86,MNC,Medium
+M,65.2,Central,61.4,Central,Commerce,64.8,Comm&Mgmt,Yes,93.4,Mkt&Fin,57.34,Placed,5,91,0,0,77,Startup,Medium
+F,60.0,Central,63.0,Central,Arts,56.0,Others,Yes,80.0,Mkt&HR,56.63,Placed,4,60,2,0,59,Mid,Low
+M,52.0,Others,55.0,Others,Commerce,56.3,Comm&Mgmt,No,59.0,Mkt&Fin,64.74,Not Placed,0,71,3,1,88,MNC,Medium
+M,66.0,Central,76.0,Central,Commerce,72.0,Comm&Mgmt,Yes,84.0,Mkt&HR,58.95,Placed,2,62,1,0,66,MNC,Medium
+M,72.0,Others,63.0,Others,Science,77.5,Sci&Tech,Yes,78.0,Mkt&Fin,54.48,Placed,1,72,0,1,88,MNC,High
+F,83.96,Others,53.0,Others,Science,91.0,Sci&Tech,No,59.32,Mkt&HR,69.71,Placed,3,42,5,1,71,MNC,Medium
+F,67.0,Central,70.0,Central,Commerce,65.0,Others,No,88.0,Mkt&HR,71.96,Not Placed,2,57,4,0,75,Mid,High
+M,69.0,Others,65.0,Others,Commerce,57.0,Comm&Mgmt,No,73.0,Mkt&HR,55.8,Placed,5,64,3,0,93,MNC,Low
+M,69.0,Others,60.0,Others,Commerce,65.0,Comm&Mgmt,No,87.55,Mkt&Fin,52.81,Placed,0,81,0,1,74,MNC,Medium
+M,54.2,Central,63.0,Others,Science,58.0,Comm&Mgmt,No,79.0,Mkt&HR,58.44,Not Placed,3,70,4,0,66,Startup,High
+M,70.0,Central,63.0,Central,Science,66.0,Sci&Tech,No,61.28,Mkt&HR,60.11,Placed,0,93,0,0,62,MNC,Low
+M,55.68,Others,61.33,Others,Commerce,56.87,Comm&Mgmt,No,66.0,Mkt&HR,58.3,Placed,5,97,2,1,69,Mid,Medium
+F,74.0,Others,73.0,Others,Commerce,73.0,Comm&Mgmt,Yes,80.0,Mkt&Fin,67.69,Placed,0,42,0,1,74,Mid,Low
+M,61.0,Others,62.0,Others,Commerce,65.0,Comm&Mgmt,No,62.0,Mkt&Fin,56.81,Placed,1,79,5,0,53,Mid,Medium
+M,41.0,Central,42.0,Central,Science,60.0,Comm&Mgmt,No,97.0,Mkt&Fin,53.39,Not Placed,3,85,0,1,59,Mid,Low
+M,83.33,Central,78.0,Others,Commerce,61.0,Comm&Mgmt,Yes,88.56,Mkt&Fin,71.55,Placed,3,63,0,0,52,MNC,Low
+F,43.0,Central,60.0,Others,Science,65.0,Comm&Mgmt,No,92.66,Mkt&HR,62.92,Not Placed,5,89,5,0,90,MNC,High
+M,62.0,Central,72.0,Central,Commerce,65.0,Comm&Mgmt,No,67.0,Mkt&Fin,56.49,Placed,1,71,3,0,94,Mid,Low
+M,80.6,Others,82.0,Others,Commerce,77.6,Comm&Mgmt,No,91.0,Mkt&Fin,74.49,Placed,2,86,0,1,67,Mid,Medium
+M,58.0,Others,60.0,Others,Science,72.0,Sci&Tech,No,74.0,Mkt&Fin,53.62,Placed,0,61,5,1,96,MNC,Medium
+M,67.0,Others,67.0,Others,Commerce,73.0,Comm&Mgmt,Yes,59.0,Mkt&Fin,69.72,Placed,4,62,4,1,85,Mid,High
+F,74.0,Others,66.0,Others,Commerce,58.0,Comm&Mgmt,No,70.0,Mkt&HR,60.23,Placed,0,41,2,1,96,Startup,Medium
+M,62.0,Central,58.0,Others,Science,53.0,Comm&Mgmt,No,89.0,Mkt&HR,60.22,Not Placed,0,66,2,1,71,Mid,Medium
